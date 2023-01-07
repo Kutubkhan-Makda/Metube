@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Metube/static/css/main.f3d8e90d.css",
+    "main.js": "/Metube/static/js/main.afa2b90c.js",
+    "index.html": "/Metube/index.html",
+    "main.f3d8e90d.css.map": "/Metube/static/css/main.f3d8e90d.css.map",
+    "main.afa2b90c.js.map": "/Metube/static/js/main.afa2b90c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d8e90d.css",
+    "static/js/main.afa2b90c.js"
+  ]
+}
